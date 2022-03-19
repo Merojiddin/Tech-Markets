@@ -1,0 +1,24 @@
+.wrapper { 
+  background-color: #020202;
+  min-height: 44px;
+  width: 100%;
+  color: white;
+  display: block;
+}
+.container {
+  width: 100%;
+  max-width: 1280px;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.headerElement {
+  text-align: center;
+}
+
+.contactMe { 
+  cursor: pointer;
+    text-decoration: underline;
+}

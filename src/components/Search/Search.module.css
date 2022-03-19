@@ -1,0 +1,16 @@
+.searchField {
+  background: #EBEBEB;
+  border-radius: 31px;
+  width: 1126px;
+  border: none;
+  padding: 20px 30px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #8c8c8c;
+}
+.searchIcon { 
+  color: #0156FF;
+}
